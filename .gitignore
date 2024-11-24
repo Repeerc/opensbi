@@ -15,6 +15,7 @@
 #Build & install directories
 build/
 install/
+out/
 
 # Development friendly files
 tags
